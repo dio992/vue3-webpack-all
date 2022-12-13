@@ -34,6 +34,7 @@
       onMounted(() => {
         console.log(count.value)
       })
+      
       return {
         count,
         doublecount,
